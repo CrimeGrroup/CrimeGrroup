@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hey there 👋</h1>
+  <h1>DarkCode Is Here 🔥</h1>
 </div>
 
 ---
@@ -12,8 +12,7 @@
 
 <p align="left">
 I'm <b>DarkCode</b> (no longer active)<br><br>
-
-
+I Love Cracking Tools. I Have CrimeGroup
 
 ---
 
@@ -33,8 +32,4 @@ I'm <b>DarkCode</b> (no longer active)<br><br>
 
 ---
 
----
-
-
-<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/output/snake.svg" alt="Snake animation"/>
-
+<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/7f0fe8d2b19ef9e3723050b132c322e7109ff9eb/output/snake.svg" alt="Snake animation"/>
