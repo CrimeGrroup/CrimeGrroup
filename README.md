@@ -1,0 +1,49 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fadi002&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <h1>Hey there 👋</h1>
+</div>
+
+---
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+I'm <b>mrpepe</b> (no longer active)<br><br>
+
+- ❤ I love Python and reverse engineering<br>
+- 🌐 Website: <a href="https://fadi002.github.io">https://fadi002.github.io</a><br>
+- 🧠 cracked.io: <a href="https://cracked.io/0xmrpepe">https://cracked.io/0xmrpepe</a><br>
+- 🧠 patched.to: <a href="https://patched.to/User/0xmrpepe">https://patched.to/User/0xmrpepe</a><br>
+
+<b>Contact:</b><br>
+- 📱 Signal: <a href="https://signal.me/#eu/1wFcG7IKjWDYjAXMOtnfkal91GoHOyLu7IzRPmAuzGTPHzBMCPtDq485nS7UiW37">mrpepe.48</a><br>
+- 💬 Session ID:<br>
+<code>059f57963d6777035a7ba7127e0ee34966c34acfd846194b8ba00f25594bc7e463</code>
+> Cracking, reversing and other stupid questions will be ignored 
+> Currently I don't provide coding or whatever paid services 
+</p>
+
+---
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
+</div>
+
+---
+
+---
+
+<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/output/snake.svg" alt="Snake animation"/>
