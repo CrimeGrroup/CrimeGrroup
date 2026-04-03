@@ -11,12 +11,13 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I'm <b>DarkCode</b> (no longer active)<br><br>
-I Love Cracking Tools. I Have CrimeGroup
+  I'm <b>DarkCode</b> (no longer active)<br>
+  I Love Cracking Tools. I Have CrimeGroup
+</p>
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">Languages I Learned</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
