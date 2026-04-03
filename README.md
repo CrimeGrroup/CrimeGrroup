@@ -35,4 +35,4 @@ I'm <b>DarkCode</b> (no longer active)<br><br>
 
 ---
 
-<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/.github/workflows/snake.yml" alt="Snake animation"/>
