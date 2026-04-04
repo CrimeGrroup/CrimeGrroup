@@ -31,4 +31,4 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/7f0fe8d2b19ef9e3723050b132c322e7109ff9eb/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/CrimeGrroup/CrimeGrroup/74b51e9b7dd83f1a017b4f91dad34073e15bc2bc/output/snake.svg" alt="Snake animation"/>
